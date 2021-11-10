@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...React
+- 🔭 I’m currently working on ...Portfolio Projects
 - 🌱 I’m currently learning ...JavaScript
 - 👯 I’m looking to collaborate on ...Udevs
 - 🤔 I’m looking for help with ...AWS
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am half Finnish
 -->
 
-Skills
-Version control tools:
+- 🔥 Skills
+🛠 Version control tools:
 • Gitlab
 • Github
 Frontend:
@@ -26,6 +26,6 @@ Frontend:
 Education
 Personal Development Process IT Academy
 Web Developer
-Languages
+- 🧠 Languages
 • Uzbek - native
 • Russian - intermediate
