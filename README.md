@@ -1,4 +1,4 @@
-### Here is #What I'm Working On! 👋
+### Hi, I'm Azimjon Abdumutalibov 👋
 
 
 Here are some ideas to get you started:
@@ -12,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half Finnish
 -->
+
+Skills
+Version control tools:
+• Gitlab
+• Github
+Frontend:
+• HTML
+• CSS
+• Bootstrap
+• React.js
+• Redux
+Education
+Personal Development Process IT Academy
+Web Developer
+Languages
+• Uzbek - native
+• Russian - intermediate
